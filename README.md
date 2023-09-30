@@ -22,7 +22,7 @@ If you have any feedback, please reach out to us at musharafali494@gmail.com
 
 ## Demo
 
-Live Link: https://readme.so/editor
+Live Link: https://musharafalii.github.io/CV-Maker-JavaScript/
 
 ## Authors
 
